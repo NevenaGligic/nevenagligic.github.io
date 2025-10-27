@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 <!-- Something exciting is coming up. Stay tuned for more. 🙂 -->
+### Shrinkage-Gated Uncertainty Estimation: Combining Prior Beliefs and Density Estimates (Nevena Gligić, Arya Farahi) 
+*(Ongoing)* <br>
+*Goal*: Enhance AI system reliability under distributional shifts by developing an architecture that leverages the known structure of the in-distribution data through a density estimation model. <br>
+*Impact*: Fraud detection, medical diagnosis, autonomous driving, disaster response management.
 
 ### BPSD: Unsupervised Bayesian Probabilistic Signal Detection in Noisy Environments (Nevena Gligić, Arya Farahi) 
-*(Under review)* <br>
-*Goal*: Develop a framework for unsupervised probabilistic signal detection under low signal-to-noise ratio (SNR) conditions without assumptions about the signal distribution <br>
+*(Ongoing)* <br>
+*Goal*: Develop a framework for unsupervised probabilistic signal detection under low signal-to-noise ratio (SNR) conditions without assumptions about the signal distribution. <br>
 *Impact*: Gravitational waves detection, galaxies detection, medical imaging, radar systems.
 
 ### AI-Driven Utility Monitoring and Anomaly Detection for City-Operated Buildings (Arya Farahi, Matt Kammer-Kerwick, Nevena Gligić, Vineet Burugu) 
