@@ -77,4 +77,4 @@ Paper coming soon.
 
 **Methods.** Chronos Bolt time-series foundation model, transformers, ARIMA baselines.
 
-*The dashboard is deployed with the City of Austin and is not publicly accessible.*
+*The dashboard is not publicly accessible.*
