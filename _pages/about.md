@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in Statistics at the [Department of Statistics and Data Science](https://stat.utexas.edu/directory/nevena-gligic), The University of Texas at Austin, advised by [Dr. Arya Farahi](https://afarahi.github.io/Our-Team.html) in the [D3 Research Lab](https://afarahi.github.io) and funded by the NSF–Simons AI Institute for Cosmic Origins (**CosmicAI**).
+I am a final-year PhD candidate in Statistics at the [Department of Statistics and Data Science](https://stat.utexas.edu/directory/nevena-gligic), The University of Texas at Austin, advised by [Dr. Arya Farahi](https://afarahi.github.io/Our-Team.html) in the [D3 Research Lab](https://afarahi.github.io) and funded by [the NSF–Simons AI Institute for Cosmic Origins (CosmicAI)](https://cosmicai.org).
 
 My research focuses on developing machine learning and statistical methods to solve real-world problems in domains such as astronomy, electricity consumption, finance, and others. So far, I designed **deep generative models for reliable AI under noise, contamination, and distributional shift**. My work has been applied to gravitational-wave detection, galaxy population inference, and anomaly-detection for energy consumption monitoring with the **City of Austin** across city-operated buildings.
 
