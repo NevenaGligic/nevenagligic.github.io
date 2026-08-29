@@ -1,23 +1,9 @@
-# main links links
 main:
   - title: "Research"
-    url: /research/    
-
-  - title: "Teaching"
-    url: /teaching/    
-
-  - title: "Resume"
-    url: /files/Resume.pdf
-    # url: /Resume/
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-  
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "Guide"
-  #   url: /markdown/
-    
-  # - title: "Talks"
-  #     url: /talks/    
+    url: /research/
+  - title: "Talks"
+    url: /talks/
+  - title: "Mentorship"
+    url: /mentorship/
+  - title: "CV"
+    url: /cv/
