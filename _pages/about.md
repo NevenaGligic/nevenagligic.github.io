@@ -14,8 +14,6 @@ My research focuses on developing machine learning and statistical methods to so
 
 Prior to joining UT Austin, I completed an [MSc in Computational Finance](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk), with a Master's thesis on operational risk modelling carried out in collaboration with **UCL** and **Santander Bank UK**, supervised by [Dr. Giacomo Livan (UCL)](https://sites.google.com/site/giacomolivan) and [Dr. Peter Mitic (Santander Bank UK, UCL)](https://profiles.ucl.ac.uk/60055-peter-mitic). I also hold a [BSc (Hons.) in Mathematics](https://www.maths.manchester.ac.uk) from [the University of Manchester](https://www.manchester.ac.uk).
 
-See [Research](/research/) for more detail on my published and ongoing work, [Talks](/talks/) for talks and presentations, and [CV](/cv/) to view the full record (both CV and Resume available).
-
 ## Awards and achievements
 
 **Best Paper Award** — STAI-X, 2026
@@ -29,7 +27,7 @@ Awarded for leadership across academic, research, and community-building activit
 **School of Mathematics Entrance Scholarship** — The University of Manchester, 2017
 
 **Co-founder, Directed Reading Program in Statistics and Data Sciences** — UT Austin, 2026
-The department's first DRP, pairing undergraduates with PhD mentors for semester-long independent research projects. More on the [Mentorship](/mentorship/) page.
+The department's first DRP, pairing undergraduates with PhD mentors for semester-long independent research projects.
 
 ## Availability
 
