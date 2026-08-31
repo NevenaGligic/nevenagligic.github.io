@@ -33,6 +33,9 @@ The department's first DRP, pairing undergraduates with PhD mentors for semester
 
 I am on the industry job market for relevant roles and available upon completing my PhD. My expected graduation date is May 2027. I am also happy to talk about earlier timelines.
 
-I am considering roles in **Austin and US-remote**, and in **Spain (preference to Barcelona and Madrid) or Italy (preference to Rome)** or EU-remote. I need no sponsorship or visa to work in the US or in the EU.
+I am considering roles in:
+- **Austin, or US-remote**
+- **the EU** – **in-person or hybrid** preferred, **willing to relocate**; *open to remote for the right role*.
+I need no sponsorship or visa to work in the US or in the EU.
 
 If you have a relevant opening, please reach out at [nevena.gligich@gmail.com](mailto:nevena.gligich@gmail.com).
